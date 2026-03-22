@@ -21,4 +21,4 @@ This file lists all the amazing students contributing to our class's Git/GitHub 
 
 ## Student Entries:
 <!-- Students: Add your entries below this line! -->
-
+**Jatin Talwar** (GitHub: Jatin930): My favorite movie is Spider Man 2
